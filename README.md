@@ -28,6 +28,8 @@ Web Developer and Cloud Engineer
 
 <p align="left"> <a href="https://www.github.com/michael-255" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1KF34L)
+
 <!--
 Here are some ideas to get you started:
 
